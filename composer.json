@@ -1,0 +1,14 @@
+{
+    "name": "fabien/site",
+    "autoload": {
+        "psr-4": {
+            "App\\": "/"
+        }
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^5.4"
+    },
+    "require": {
+        "altorouter/altorouter": "^2.0"
+    }
+}
